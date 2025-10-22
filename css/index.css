@@ -19,14 +19,15 @@
 .bg-white{
   background-color: white;
 }
-p{
+p,h4{
     text-indent: 30px;
 }
+
 .font-Sriracha{
   font-family: "Sriracha", cursive;
   font-weight: 400;
   font-style: normal;
-  font-size: 45px;
+  font-size: 35px;
 }
 .font-Kanit{
   font-family: "Kanit", sans-serif;
@@ -34,16 +35,18 @@ p{
   font-style: normal;
 }
 .font-itim{
-  font-family: "Itim", cursive;
-  font-weight: 400;
+  font-family: "Mali", cursive;
+  font-weight: 500;
   font-style: normal;
-  font-size: 25px;
 }
+
 .round{
   border-radius: 50%;
 }
 .bg-01{
-  background-image: linear-gradient(to bottom,#c6212b,#ecccb2);
-}
+  background-image: linear-gradient(to bottom,#c6212b,#ecccb2);}
 
+.bg-02{
+  background-image: linear-gradient(to bottom,#ecccb2,white);
+}
 
